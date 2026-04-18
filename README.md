@@ -74,4 +74,6 @@ UPI-Transaction-Analysis/
 Narayana Kuruva
 Data Analyst | Power BI | Python | SQL
 
-ScreenShort
+ScreenShort of repot
+
+https://github.com/Narayanakuruva/UPI-Analyses/blob/main/UPI%20Dashboard.png
